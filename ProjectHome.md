@@ -1,0 +1,1 @@
+POS.Net -- OpenSource Retail Management System written in VB.net
